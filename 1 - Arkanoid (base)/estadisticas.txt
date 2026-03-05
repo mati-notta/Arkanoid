@@ -1,0 +1,3 @@
+partidas GANADAS: 0
+partidas PERDIDAS: 1
+Ladrillos Rotos Totales: 62
